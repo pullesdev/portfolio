@@ -1,0 +1,10 @@
+# Assets personales
+assets/images/profile.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
