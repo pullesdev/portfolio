@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eddypulles.vercel.app/sitemap.xml
+Sitemap: https://eddyluispulles.vercel.app/sitemap.xml

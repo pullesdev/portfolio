@@ -4,7 +4,7 @@ Professional portfolio showcasing my data science projects, certifications, and 
 
 ## Live Site
 
-[eddypulles.vercel.app](https://eddypulles.vercel.app)
+[eddypulles.vercel.app](https://eddyluispulles.vercel.app)
 
 ## Features
 
